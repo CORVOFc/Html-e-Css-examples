@@ -1,0 +1,29 @@
+p {
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left; color: #ffffff; 
+}
+    body
+    { 
+        color: #6d3494;
+        background: #000000;
+        font-weight: bold;
+
+    }
+    
+
+    h1{
+        font-family: "monospace"
+        }
+
+
+
+    h2 {
+        font-family: "monospace"
+        }
+
+
+        h1, h2, h3 {
+            color: #6c1da0;
+            }
+            
